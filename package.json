@@ -5,6 +5,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "nuxt dev",
+    "build": "nuxt build",
     "generate": "nuxt generate"
   },
   "dependencies": {
